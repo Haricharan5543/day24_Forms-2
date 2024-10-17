@@ -1,0 +1,30 @@
+.container {
+    width:1200px;
+    margin:10px auto;
+}
+h1{
+    text-align: center;
+}
+form{
+    background-color:  rgb(220, 210, 203);
+    display: inline-block;
+    position: relative; 
+    width: 100%; 
+    padding:30px;
+    
+} 
+
+form label{
+    width: 200px;
+    display: inline-block;
+
+} 
+form div {
+    margin:5px;
+}
+  
+.innerlabel {
+    margin: auto;
+}
+
+
